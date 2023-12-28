@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IUzleDSCl87puVo0652yGvrlAvUaXSOK77Zqdi/UCEM=",
+  "Source": "Products_WebApi_app",
+  "BasePath": "_content/Products_WebApi_app",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
